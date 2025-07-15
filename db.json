@@ -1,0 +1,31 @@
+{
+    "users" : [
+        {
+            "id" : "user_id_1",
+            "name" : "friend",
+            "email" : "friend@gmail.com",
+            "password" : "password"
+        }
+    ],
+    "dealers" : [
+        {
+            "dealer_id" : "dealer_id_1",
+            "name" : "Ramu",
+            "email" : "ramu@gmail.com",
+            "password" : "dealer123",
+            "companyname" : "XYZ",
+            "mobile" : 789654531,
+            "isActive" : true,
+            "payment" : []
+        }
+    ],
+    "products" : [
+        {
+            "prodid" : 1,
+            "prod_title" : "rice bag",
+            "price" : 120,
+            "quantity" : 25
+
+        }
+    ]
+}
